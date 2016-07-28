@@ -1,1 +1,1 @@
-# myconfig
+# spring-myconfig

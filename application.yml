@@ -1,3 +1,5 @@
 foo: bar
 my:
   name: GP Murugan
+security:
+  key: '{cipher}aee00b6f8b52230bb5143998b8a54ac50bb0e9163397dd45ca079f2e8f6f34500dd02932125f0b172af4cc81312daca6'
